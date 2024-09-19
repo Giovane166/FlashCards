@@ -98,15 +98,11 @@ criaCartao(
 criaCartao(
     'História',
     'Qual grupo social surgiu a partir do reaparecimento do comércio?',
-    'A Burguesia')    
+    'A Burguesia'
+)    
 
 criaCartao(
     'História',
     'O que foram as Cruzadas?',
-    'Expedições de caráter religioso e militar com o objetivo de expulsar muçulmanos da terra santa.')    
-
-criaCartao(
-'',
-'',
-' ')    
-                                                                                                                                                                                                                            
+    'Expedições de caráter religioso e militar com o objetivo de expulsar muçulmanos da terra santa.'
+)
