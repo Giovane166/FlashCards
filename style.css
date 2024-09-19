@@ -1,0 +1,21 @@
+:root{
+    --fundo:
+    --cartao-frente: ;
+    --cartao-verso:   ;
+    --branco: white;
+    --preto: black;
+    --destaque:
+}
+
+body{
+    background-color: var(--fundo);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: var(--preto);
+    color: var(--branco);
+    width: 100%;
+    text-align: center;
+}

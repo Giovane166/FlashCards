@@ -56,51 +56,54 @@ criaCartao(
     'Criacionismo')    
 
 criaCartao(
-    '',
-    '',
-    ' ')    
+    'Biologia',
+    'O que o FIxismo defende?',
+    'O Fixismo defende que os seres vivos são criaturas imutáveis, permanentes e sem relação de origem comum.')    
 
 criaCartao(
-'',
-'',
-' ')    
+    'Biologia',
+    'O que o Evolucionismo defende?',
+    'Que os seres vivos existentes atualmente são frutos de modificações de seres previamente existentes.')    
 
 criaCartao(
-'',
-'',
-' ')    
-criaCartao(
-'',
-'',
-' ')    
+    'Geografia',
+    'O capitalismo comercial, arrecadava capital através da…',
+    'ampliação do comércio e da exploração do ouro e da prata.')
 
 criaCartao(
-'',
-'',
-' ')    
+    'Geografia',
+    'As nações ________ (européias/asiáticas) lideraram o processo de expansão.',
+    'Européias.')    
 
 criaCartao(
-'',
-'',
-' ')    
+    'Geografia',
+    'Qual tipo surgiu após o capitalismo comercial?',
+    'Industrial.')    
 
 criaCartao(
-'',
-'',
-' ')    
-criaCartao(
-'',
-'',
-' ')    
-criaCartao(
-'',
-'',
-' ')    
+    'Sociologia',
+    'Para os antropólogos a cultura sempre se declina para o _______ (singular/plural).',
+    'Plural.')    
 
 criaCartao(
-'',
-'',
-' ')    
+    'Sociologia',
+    'Como pode ser produzida a cultura?',
+    'Por meio da interação social entre indivíduos.')
+
+criaCartao(
+    'Sociologia',
+    'Pelo que é representada a Cultura Material?',
+    'Pelas construções humanas.')
+
+criaCartao(
+    'História',
+    'Qual grupo social surgiu a partir do reaparecimento do comércio?',
+    'A Burguesia')    
+
+criaCartao(
+    'História',
+    'O que foram as Cruzadas?',
+    'Expedições de caráter religioso e militar com o objetivo de expulsar muçulmanos da terra santa.')    
 
 criaCartao(
 '',
