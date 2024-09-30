@@ -61,6 +61,7 @@ footer{
 }
 
 .resposta-cartao p{
+    transform: rotateY(180deg);
     color: var(--cartao-verso);
     font-weight: 700;
 }
