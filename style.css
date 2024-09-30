@@ -20,7 +20,9 @@ footer{
     text-align: center;
 }
 
-container.appendChild(cartao);
+container.appendChild(cartao){
+};
+
 
   .conteudo-cartao {
     background-color: var(--cartao-frente);
