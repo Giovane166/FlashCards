@@ -28,10 +28,6 @@ footer{
     gap: 3rem;
 }
 
-  .conteudo-cartao {
-    background-color: var(--cartao-frente);
-}
-
 .cartao {
     height: 20rem;
     margin: 1rem;
@@ -41,6 +37,7 @@ footer{
 
 .conteudo-cartao{
     background-color: var(--cartao-frente);
+    color: var(--branco);
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
