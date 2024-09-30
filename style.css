@@ -61,8 +61,13 @@ footer{
     padding-top: 4rem;
 }
 
+.resposta-cartao p{
+    color: var(--cartao-verso);
+    font-weight: 700;
+}
+
 .cartao.active.conteudo-cartao{
-    transform: rotateY('180deg');
+    transform: rotateY(180deg);
 }
 
 .pergunta.cartao,
